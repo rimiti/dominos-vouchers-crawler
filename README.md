@@ -1,6 +1,7 @@
 # Domino's Pizza vouchers crawler
 
-This code is just for demonstrate how it's realy easy to retrieve all promotional codes from the mobile Domino's Pizza.
+This code is just for demonstrate how it's realy easy to retrieve 
+all promotional codes from the mobile Domino's Pizza website.
 
 ## How to run it ?
 
