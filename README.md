@@ -1,4 +1,4 @@
-# Domino's Pizza vouchers crawler
+# dominos-vouchers-crawler [![Build Status](https://travis-ci.org/rimiti/dominos-vouchers-crawler.svg?branch=master)](https://travis-ci.org/rimiti/dominos-vouchers-crawler) [![Coverage Status](https://coveralls.io/repos/github/rimiti/dominos-vouchers-crawler/badge.svg?branch=master)](https://coveralls.io/github/rimiti/dominos-vouchers-crawler?branch=master)  
 
 This code is just for demonstrate how it's realy easy to retrieve 
 all promotional codes from the mobile Domino's Pizza website.
